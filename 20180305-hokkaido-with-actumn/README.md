@@ -45,6 +45,7 @@ Amount : 1123.27 USD
 - 오타루
 - 토야코
 - https://www.tripadvisor.co.kr/ShowUserReviews-g298560-d1175577-r431018332-Ebi_kani_Gassen-Sapporo_Hokkaido.html
+- http://m.post.naver.com/viewer/postView.nhn?volumeNo=7394928&memberNo=12505633
 
 ## Plan
 #### 2018-02-05 (Mon)
