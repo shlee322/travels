@@ -34,3 +34,14 @@ Amount : 1123.27 USD
 
 
 ## Backlog
+- 삿포로 맥주 박물관
+- 스스키노 (삿포로 번화가)
+- 오토리공원
+- 훗카이도 대학
+- JR타워
+- 삿포로 시계탑
+- 라멘 요코쵸 (라면집 거리 라는듯)
+- 비에이
+- 오타루
+- 토야코
+- https://www.tripadvisor.co.kr/ShowUserReviews-g298560-d1175577-r431018332-Ebi_kani_Gassen-Sapporo_Hokkaido.html
